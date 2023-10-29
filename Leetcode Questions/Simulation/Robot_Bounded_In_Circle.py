@@ -12,3 +12,26 @@ The robot can receive one of three instructions:
 The robot performs the instructions given in order, and repeats them forever.
 
 Return true if and only if there exists a circle in the plane such that the robot never leaves the circle."""
+class Solution(object):
+    def isRobotBounded(self, instructions):
+        """
+        :type instructions: str
+        :rtype: bool
+        """
+        x=y=0
+        directions = [(0,1),(1,0),(0,-1),(-1,0)]
+        i=0
+        while True:
+            for j in instructions:
+                if j=='G':
+                    x+=directions[i][0]
+                    y+=directions[i][1]
+                elif j=='R':
+                    i=(i + 1)% 4
+                else:
+                    i=(i-1)%4
+                    
+            if i==0:
+                return x==0 and y==0
+sl=Solution()
+sl.isRobotBounded
