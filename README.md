@@ -1,6 +1,6 @@
 # Combined Traffic Detection App
 ## Description:
-The Combined Traffic Detection App is a tool designed to enhance road safety by detecting red light signal violations, ensuring helmet usage compliance, and extracting license plate information from images captured at intersections or traffic lights.
+The Combined Traffic Detection App is a tool designed to enhance road safety by detecting red light signal violations, ensuring helmet usage compliance, and extracting license plate information from images captured at intersections .
 
 ## Features:
 
