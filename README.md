@@ -15,6 +15,8 @@ To use the "Red Light Signal Violation Detection" feature, simply input images  
 ### Helmet Detection and License Plate Extraction
 
 This option focuses on ensuring safety by detecting whether individuals are wearing helmets while riding vehicles and extracting license plate information from images if they are not wearing helmets. It is a valuable tool for promoting helmet use and maintaining road safety.
+![image](https://github.com/AnnmariyaFrancis/Scifor/assets/121210814/0dbf4eda-05ad-46d3-8567-be7a59aa10c4)
+
 
 ## Usage
 
