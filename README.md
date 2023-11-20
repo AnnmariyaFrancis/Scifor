@@ -19,7 +19,7 @@ Extracts license plate information from images when helmet usage is not detected
 <img src="https://github.com/AnnmariyaFrancis/Scifor/assets/121210814/0dbf4eda-05ad-46d3-8567-be7a59aa10c4">
 
 ### Usage
-Access the app on Streamlit Cloud at "https://app-tsphleqybcbtyuyszxzjae.streamlit.app/". Choose between the "Red Light Signal Violation Detection" and "Helmet Detection and License Plate Extraction" options from the app interface.Follow the on-screen instructions to upload or provide image data for analysis.The app will process the data and provide visual feedback and alerts related to traffic violations or safety compliance, depending on the selected option.
+Access the app on Streamlit Cloud at "[https://app-tsphleqybcbtyuyszxzjae.streamlit.app/](https://helmetlicencedetection-u76q7uvxw4odkc2fapplhu3.streamlit.app/)". Choose between the "Red Light Signal Violation Detection" and "Helmet Detection and License Plate Extraction" options from the app interface.Follow the on-screen instructions to upload or provide image data for analysis.The app will process the data and provide visual feedback and alerts related to traffic violations or safety compliance, depending on the selected option.
 
 ### Installation:
 
